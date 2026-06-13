@@ -1,4 +1,37 @@
 <p align="center">
+${
+\textsf{
+\color{#6b4a3a}【 𖦏 ˊ 𝑤𝙚𝑙𝑐𝙤𝙢𝑒.\
+\color{#7f5a42}𝑚0𝙩𝙝𝑒𝑟\
+\color{#9b7a55}𝑓𝑣𝑐𝙠3𝙧𝑠! ˎ⚡︎ 】\
+}
+  }$
+</p>
+
+<p align="center">
+${
+\color{#6b4a3a}𝑟0𝑠𝑒\
+\color{#7f5a42}𖥔\
+\color{#9b7a55}𝑑0𝑙𝑙𝙮﹑𝑠𝙝𝑒\
+\color{#c9a58d}𖥔\
+\color{#e2cbb7}ℎ3𝑟﹑\
+\color{#c9a58d}𝑓𝙚𝑒𝑙\
+\color{#9b7a55}𝑓𝑟3𝑒\
+\color{#7f5a42}𝑡0\
+\color{#6b4a3a}𝙘*ℎ | 𝑑𝙣!.\
+\color{#7f5a42}𝑤1𝙩ℎ\
+\color{#9b7a55}4𝙣𝑦1,\
+\color{#c9a58d}0𝑟\
+\color{#e2cbb7}𝑚3.\
+\color{#c9a58d}𝑊4𝑅𝙉!𝑁𝐺\
+\color{#6b4a3a}1
+\color{#7f5a42}𝑚!𝑔ℎ𝑡
+\color{#9b7a55}𝘽1𝙏𝙀. ₊ ₊ ₊\
+\color{#7f5a42}♡\\
+}$
+</p>
+
+<p align="center">
 <img width="735" height="574" alt="Image" src="https://github.com/user-attachments/assets/a28c1bd7-40bd-4705-831d-2bf532c465d9" />
 </p>
 
@@ -17,6 +50,17 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Upright&duration=8500&pause=0&center=true&width=475&lines=I+can't+ignore+you..;Do+anything+for+you..;I+do+adore+you..&color=ae4bb9" />
+</p>
+
+<p align="center">
+${
+\color{#6b4a3a}ᴄʜ3ᴄᴋ\
+\color{#7f5a42}ᴍʏ\
+\color{#9b7a55}sᴛʀ4ᴡ , ᴘᴀɢ3\
+\color{#c9a58d}ʙᴇғ0ʀ\
+\color{#e2cbb7}1 ᴡɪʟʟ ᴋ!ʟʟ ʏ0ᴜ.\
+\color{#c9a58d} ˗ˋˏ ♡ ˎˊ˗\
+}$
 </p>
 
 -----------------------------------------------------------------------
