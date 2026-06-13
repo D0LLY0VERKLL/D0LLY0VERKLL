@@ -1,5 +1,8 @@
+<p align="center">
+<img width="735" height="574" alt="Image" src="https://github.com/user-attachments/assets/a28c1bd7-40bd-4705-831d-2bf532c465d9" />
+</p>
 
-
+-----------------------------------------------------------------------
 
 <!-- start: readme-repos-list -->
 
@@ -8,12 +11,14 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=SadAngelOfHell&color=c9a58d&style=Zen+Old+Mincho&duration=flat&label=𓂃༺𖦏༻𓂃"/>
+<img src="https://komarev.com/ghpvc/?username=SadAngelOfHell&color=ffffff&style=Zen+Old+Mincho&duration=flat&label=𓂃༺𖦏༻𓂃"/>
 </p>
 
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Upright&duration=8500&pause=0&center=true&width=475&lines=I+can't+ignore+you..;Do+anything+for+you..;I+do+adore+you..&color=ae4bb9" />
 </p>
+
+-----------------------------------------------------------------------
 
 <!-- end: readme-repos-list -->
