@@ -1,9 +1,9 @@
 <p align="center">
 ${
 \textsf{
-\color{#9E74A3}【 𖦏 ˊ 𝑤𝙚𝑙𝑐𝙤𝙢𝑒.\
+\color{#9E74A3}【  𖦏 ˊ 𝑤𝙚𝑙𝑐𝙤𝙢𝑒.\
 \color{#DBCAD4}𝑚0𝙩𝙝𝑒𝑟\
-\color{#D57DAD}𝑓𝑣𝑐𝙠3𝙧𝑠! ˎ⚡︎ 】\
+\color{#D57DAD}𝑓𝑣𝑐𝙠3𝙧𝑠! ˎ۶୧  】\
 }
   }$
 </p>
@@ -18,7 +18,7 @@ ${
 \color{#D57DAD}𝑓𝙚𝑒𝑙\
 \color{#DBCAD4}𝑓𝑟3𝑒\
 \color{#D57DAD}𝑡0\
-\color{#9E74A3}𝙘*ℎ | 𝑑𝙣!.\
+\color{#9E74A3}𝙘*ℎ | 𝑑𝙣𝙞\
 \color{#D57DAD}𝑤1𝙩ℎ\
 \color{#DBCAD4}4𝙣𝑦1,\
 \color{#D57DAD}0𝑟\
@@ -26,8 +26,8 @@ ${
 \color{#D57DAD}𝑊4𝑅𝙉!𝑁𝐺\
 \color{#DBCAD4}1\
 \color{#D57DAD}𝑚!𝑔ℎ𝑡\
-\color{#9E74A3}𝘽1𝙏𝙀. ₊ ₊ ₊\
-\color{#DBCAD4},♡\\
+\color{#9E74A3}𝘽1𝙏𝙀. ˙˙\
+\color{#DBCAD4}, ♡\\
 }$
 </p>
 
@@ -37,12 +37,18 @@ ${
 
 <p align="center">
 ${
-\color{#9E74A3}【 𝙂0\
-\color{#DBCAD4}𝑡0\
-\color{#D57DAD}𝑠𝙡𝙚3𝑝 ,\
-\color{#DBCAD4}𝑚𝙮\
-\color{#9E74A3}𝑝𝑟!𝙣𝑐3.♡ 】\
+\color{#9E74A3}【  𝑌0𝙪'𝑟3\
+\color{#DBCAD4}𝙨0\
+\color{#D57DAD}𝑓𝑣𝙘𝑘!𝙣 '\
+\color{#DBCAD4}ℎ4𝑛𝙙𝙨0𝑚3 ,\
+\color{#9E74A3}𝙢𝑦\
+\color{#D57DAD}𝑝𝑟1𝙣𝙘𝑒 .\
+\color{#DBCAD4}♡ . 】\
 }$
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Upright&duration=7500&pause=450&color=9E74A3&center=true&width=475&lines=+;How.+i.+would..+KILL...+for+you..." />
 </p>
 
 <p align="center">
