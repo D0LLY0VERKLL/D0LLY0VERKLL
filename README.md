@@ -48,7 +48,7 @@ ${
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Upright&duration=7500&pause=450&color=9E74A3&center=true&width=475&lines=+;How.+i.+would..+KILL...+for+you..." />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Upright&duration=7500&pause=450&color=DBCAD4&center=true&width=475&lines=+;How.+i.+would..+KILL...+for+you..." />
 </p>
 
 <p align="center">
