@@ -1,33 +1,33 @@
 <p align="center">
 ${
 \textsf{
-\color{#6b4a3a}【 𖦏 ˊ 𝑤𝙚𝑙𝑐𝙤𝙢𝑒.\
-\color{#7f5a42}𝑚0𝙩𝙝𝑒𝑟\
-\color{#9b7a55}𝑓𝑣𝑐𝙠3𝙧𝑠! ˎ⚡︎ 】\
+\color{#a595bd}【 𖦏 ˊ 𝑤𝙚𝑙𝑐𝙤𝙢𝑒.\
+\color{#a4aac0}𝑚0𝙩𝙝𝑒𝑟\
+\color{#a595bd}𝑓𝑣𝑐𝙠3𝙧𝑠! ˎ⚡︎ 】\
 }
   }$
 </p>
 
 <p align="center">
 ${
-\color{#6b4a3a}𝑟0𝑠𝑒\
-\color{#7f5a42}𖥔\
-\color{#9b7a55}𝑑0𝑙𝑙𝙮﹑𝑠𝙝𝑒\
-\color{#c9a58d}𖥔\
-\color{#e2cbb7}ℎ3𝑟﹑\
-\color{#c9a58d}𝑓𝙚𝑒𝑙\
-\color{#9b7a55}𝑓𝑟3𝑒\
-\color{#7f5a42}𝑡0\
-\color{#6b4a3a}𝙘*ℎ | 𝑑𝙣!.\
-\color{#7f5a42}𝑤1𝙩ℎ\
-\color{#9b7a55}4𝙣𝑦1,\
-\color{#c9a58d}0𝑟\
-\color{#e2cbb7}𝑚3.\
-\color{#c9a58d}𝑊4𝑅𝙉!𝑁𝐺\
-\color{#6b4a3a}1
-\color{#7f5a42}𝑚!𝑔ℎ𝑡
-\color{#9b7a55}𝘽1𝙏𝙀. ₊ ₊ ₊\
-\color{#7f5a42}♡\\
+\color{#a4aac0}𝑟0𝑠𝑒\
+\color{#a595bd}𖥔\
+\color{#ad6bb9}𝑑0𝑙𝑙𝙮﹑𝑠𝙝𝑒\
+\color{#a595bd}𖥔\
+\color{#a4aac0}ℎ3𝑟﹑\
+\color{#a595bd}𝑓𝙚𝑒𝑙\
+\color{#ad6bb9}𝑓𝑟3𝑒\
+\color{#a595bd}𝑡0\
+\color{#a4aac0}𝙘*ℎ | 𝑑𝙣!.\
+\color{#a595bd}𝑤1𝙩ℎ\
+\color{#ad6bb9}4𝙣𝑦1,\
+\color{#a595bd}0𝑟\
+\color{#a4aac0}𝑚3.\
+\color{#a595bd}𝑊4𝑅𝙉!𝑁𝐺\
+\color{#ad6bb9}1
+\color{#a595bd}𝑚!𝑔ℎ𝑡
+\color{#a4aac0}𝘽1𝙏𝙀. ₊ ₊ ₊\
+\color{#a595bd}♡\\
 }$
 </p>
 
