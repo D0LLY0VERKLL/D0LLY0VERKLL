@@ -10,30 +10,29 @@ ${
 
 <p align="center">
 ${
-\color{#a4aac0}𝑟0𝑠𝑒\
-\color{#a595bd}𖥔\
-\color{#ad6bb9}𝑑0𝑙𝑙𝙮﹑𝑠𝙝𝑒\
-\color{#a595bd}𖥔\
-\color{#a4aac0}ℎ3𝑟﹑\
-\color{#a595bd}𝑓𝙚𝑒𝑙\
-\color{#ad6bb9}𝑓𝑟3𝑒\
-\color{#a595bd}𝑡0\
-\color{#a4aac0}𝙘*ℎ | 𝑑𝙣!.\
-\color{#a595bd}𝑤1𝙩ℎ\
-\color{#ad6bb9}4𝙣𝑦1,\
-\color{#a595bd}0𝑟\
-\color{#a4aac0}𝑚3.\
-\color{#a595bd}𝑊4𝑅𝙉!𝑁𝐺\
-\color{#ad6bb9}1
-\color{#a595bd}𝑚!𝑔ℎ𝑡
-\color{#a4aac0}𝘽1𝙏𝙀. ₊ ₊ ₊\
-\color{#a595bd}♡\\
+\color{#9e74a3}𝑟0𝑠𝑒\
+\color{#DBCAD4}𖥔\
+\color{#D57DAD}𝑑0𝑙𝑙𝙮﹑𝑠𝙝𝑒\
+\color{#DBCAD4}𖥔\
+\color{#9E74A3}ℎ3𝑟﹑\
+\color{#DBCAD4}𝑓𝙚𝑒𝑙\
+\color{#D57DAD}𝑓𝑟3𝑒\
+\color{#9E74A3}𝑡0\
+\color{#DBCAD4}𝙘*ℎ | 𝑑𝙣!.\
+\color{#9E74A3}𝑤1𝙩ℎ\
+\color{#D57DAD}4𝙣𝑦1,\
+\color{#DBCAD4}0𝑟\
+\color{#D57DAD}𝑚3.\
+\color{#9E74A3}𝑊4𝑅𝙉!𝑁𝐺\
+\color{#DBCAD4}1
+\color{#D57DAD}𝑚!𝑔ℎ𝑡
+\color{#9E74A3}𝘽1𝙏𝙀. ˙ ˙ \
+\color{#DBCAD4}ˏ♡\\
 }$
 </p>
 
 <p align="center">
-<img width="735" height="574" alt="Image" src="https://github.com/user-attachments/assets/a28c1bd7-40bd-4705-831d-2bf532c465d9" />
-</p>
+<img width="732" height="572" alt="Image" src="https://github.com/user-attachments/assets/c043326e-5a1f-47cb-8552-a0a8c997c827" />
 
 -----------------------------------------------------------------------
 
